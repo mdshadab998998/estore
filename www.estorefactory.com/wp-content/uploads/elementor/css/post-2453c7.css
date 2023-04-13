@@ -1,0 +1,37 @@
+.elementor-24 .elementor-element.elementor-element-6ac9ca0c{font-family:"Open Sans", Sans-serif;font-weight:400;}.elementor-24 .elementor-element.elementor-element-d69e5d0{text-align:center;}.elementor-24 .elementor-element.elementor-element-d69e5d0 .elementor-heading-title{color:#196197;font-family:"Open Sans", Sans-serif;font-size:30px;font-weight:700;}.elementor-24 .elementor-element.elementor-element-5717e935{color:#626262;font-family:"Open Sans", Sans-serif;font-size:13px;font-weight:400;line-height:23px;letter-spacing:0.26px;}.elementor-24 .elementor-element.elementor-element-7bf3527{--divider-border-style:solid;--divider-color:#CCCCCC;--divider-border-width:0.5px;}.elementor-24 .elementor-element.elementor-element-7bf3527 .elementor-divider-separator{width:100%;margin:0 auto;margin-center:0;}.elementor-24 .elementor-element.elementor-element-7bf3527 .elementor-divider{text-align:center;padding-top:2px;padding-bottom:2px;}.elementor-24 .elementor-element.elementor-element-6f9140b1{text-align:center;}.elementor-24 .elementor-element.elementor-element-6f9140b1 .elementor-heading-title{color:#196197;font-family:"Open Sans", Sans-serif;font-weight:600;}.elementor-24 .elementor-element.elementor-element-61aea4c .elementor-accordion .elementor-accordion-item{border-width:1px;border-color:#C6C6C6;}.elementor-24 .elementor-element.elementor-element-61aea4c .elementor-accordion .elementor-accordion-item .elementor-tab-content{border-width:1px;border-top-color:#C6C6C6;}.elementor-24 .elementor-element.elementor-element-61aea4c .elementor-accordion .elementor-accordion-item .elementor-tab-title.elementor-active{border-width:1px;border-bottom-color:#C6C6C6;}.elementor-24 .elementor-element.elementor-element-61aea4c .elementor-accordion-icon, .elementor-24 .elementor-element.elementor-element-61aea4c .elementor-accordion-title{color:#525252;}.elementor-24 .elementor-element.elementor-element-61aea4c .elementor-active .elementor-accordion-icon, .elementor-24 .elementor-element.elementor-element-61aea4c .elementor-active .elementor-accordion-title{color:#000000;}.elementor-24 .elementor-element.elementor-element-61aea4c .elementor-accordion .elementor-accordion-title{font-family:"Poppins", Sans-serif;font-weight:600;}.elementor-24 .elementor-element.elementor-element-61a31e6{text-align:center;}.elementor-24 .elementor-element.elementor-element-61a31e6 .elementor-heading-title{color:#196197;font-family:"Open Sans", Sans-serif;font-weight:600;}.elementor-24 .elementor-element.elementor-element-65b7ab3{text-align:center;}.elementor-24 .elementor-element.elementor-element-6adf1f3{text-align:center;}.elementor-24 .elementor-element.elementor-element-6adf1f3 .elementor-heading-title{color:#196197;font-family:"Open Sans", Sans-serif;font-weight:600;}.elementor-24 .elementor-element.elementor-element-a357c12{--image-transition-duration:800ms;--overlay-transition-duration:800ms;--content-text-align:center;--content-padding:20px;--content-transition-duration:800ms;--content-transition-delay:800ms;--galleries-title-color-normal:#015091;--galleries-pointer-bg-color-hover:#E6332A;--galleries-pointer-bg-color-active:#E6332A;}.elementor-24 .elementor-element.elementor-element-a357c12 .e-gallery-item:hover .elementor-gallery-item__overlay{background-color:rgba(0,0,0,0.5);}.elementor-24 .elementor-element.elementor-element-a357c12 .elementor-gallery-title{font-family:"Poppins", Sans-serif;font-weight:600;}.elementor-24 .elementor-element.elementor-element-41c4c28e .elementor-button .elementor-align-icon-right{margin-left:1px;}.elementor-24 .elementor-element.elementor-element-41c4c28e .elementor-button .elementor-align-icon-left{margin-right:1px;}.elementor-24 .elementor-element.elementor-element-41c4c28e .elementor-button{font-family:"Poppins", Sans-serif;font-size:14px;font-weight:700;line-height:23px;letter-spacing:2px;background-color:#151616;border-style:solid;}.elementor-24 .elementor-element.elementor-element-41c4c28e .elementor-button:hover, .elementor-24 .elementor-element.elementor-element-41c4c28e .elementor-button:focus{color:#000000;background-color:#FFFFFF;}.elementor-24 .elementor-element.elementor-element-41c4c28e .elementor-button:hover svg, .elementor-24 .elementor-element.elementor-element-41c4c28e .elementor-button:focus svg{fill:#000000;}.elementor-24 .elementor-element.elementor-element-09378da{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-24 .elementor-element.elementor-element-c091530 > .elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}/* Start custom CSS for section, class: .elementor-element-ef90232 */h2.elementor-heading-title.elementor-size-default {
+    font-family: 'Poppins' !important;
+}
+
+h1.elementor-heading-title.elementor-size-default{
+	font-family: 'Poppins' !important;
+}
+
+h3.elementor-heading-title.elementor-size-default{
+	font-family: 'Poppins' !important;
+}
+
+p.elementor-heading-title.elementor-size-default{
+	font-family: 'Poppins' !important;
+}
+h4.elementor-heading-title.elementor-size-default{
+	font-family: 'Poppins' !important;
+}
+span.elementor-button-content-wrapper {
+    font-family: 'Poppins' !important;
+}
+a.elementor-button-link.elementor-button {
+    font-family: 'Poppins' !important;
+}
+p {
+    font-family: 'Poppins' !important;
+}
+a.elementor-toggle-title {
+    font-family: 'Poppins' !important;
+}
+
+h4, h3, h2, h1 {
+font-family: 'Poppins' !important;
+}
+h2.elementor-heading-title.elementor-size-default {
+    color: #015091 !important;
+}/* End custom CSS */

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.estorefactory.com	TRUE	/	FALSE	1999999999	PHPSESSID	akcmqv98gfrs9ko520cqsj51mv
+www.estorefactory.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.estorefactory.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_c3a6714cb4cebed0c276de8238ee7c83	t_4f2c3bc10017f1e8e876582362ce52%7C%7C1681581199%7C%7C1681577599%7C%7Cd78a65eecdb41d5d5ea4749b7955654c
+www.estorefactory.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	41eed56f7f21e966b8e0ee46393ac94d
+
